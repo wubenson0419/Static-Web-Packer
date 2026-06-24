@@ -1,0 +1,9 @@
+{
+  "name": "純前端靜態打包工具",
+  "short_name": "WebPacker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#16191f",
+  "description": "在瀏覽器端本地完成網頁壓縮、打包與 SEO 最佳化"
+}
